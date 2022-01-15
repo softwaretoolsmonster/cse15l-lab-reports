@@ -1,4 +1,4 @@
-# This file is the index.md file for the Lab 2 of CSE 15L. 
+# This file is the index.md file for the CSE 15L Lab 2. 
 
 ## This is the second level header. 
 
