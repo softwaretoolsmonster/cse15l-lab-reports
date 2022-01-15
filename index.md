@@ -8,6 +8,6 @@ I will eat up all software tools.
 
 Let's _try_ different **formatting** options. 
 
-Here is a link to the markdown tutorial [Link](https://commonmark.org/help/)
+Here is a link to the [markdown tutorial](https://commonmark.org/help/)
 
 
